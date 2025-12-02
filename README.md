@@ -33,7 +33,7 @@ Provides a quick high-level summary:
 
 - 🧾 **Total Budget**
 
--🔻 **Variance** (Sales − Budget)
+- 🔻 **Variance** (Sales − Budget)
 
 - 📉 **Variance Percentage**
 
@@ -94,21 +94,21 @@ Excel / CSV data source
 
 ## 🧠 Skills Demonstrated
 
-Data cleaning and preparation
+- Data cleaning and preparation
 
-Data modeling
+- Data modeling
 
-DAX calculations
+- DAX calculations
 
-Visual analytics
+- Visual analytics
 
-KPI design
+- KPI design
 
-Dashboard layout and color harmony
+- Dashboard layout and color harmony
 
-Variance analysis
+- Variance analysis
 
-Data storytelling and business interpretation
+- Data storytelling and business interpretation
 
 
 
