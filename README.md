@@ -130,7 +130,7 @@ Excel / CSV data source
 
 ## 📂 Dataset Source
 
-The dataset used for this dashboard was provided as part of a YouTube Power BI tutorial. It was included for practice and learning purposes.
+The dataset used for this dashboard was provided as part of a YouTube Power BI tutorial by **Avi Singh - PowerBIPro** It was included for practice and learning purposes.
 
 
 
