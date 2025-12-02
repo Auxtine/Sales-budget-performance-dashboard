@@ -121,7 +121,7 @@ Excel / CSV data source
 
 2. Open it in Power BI Desktop on your computer 
 
-3. If you want a quick look without opening Power BI, you can also view the screenshot or PDF preview included in the repo. 
+3. If you want a quick look without opening Power BI, you can also view the screenshot included in the repo. 
  ![Dashboard Preview](https://github.com/Auxtine/Sales-budget-performance-dashboard/edit/main/sales-budget-performance-dashboard.png)
  
 
