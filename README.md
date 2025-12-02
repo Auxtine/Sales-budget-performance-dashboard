@@ -116,13 +116,13 @@ Excel / CSV data source
 
 ## 📥 How to View the Dashboard
 
-1. Download the .pbix file from this repository
+- Download the .pbix file from this repository and open it in Power BI Desktop to explore the full report.
 
+- The Excel files included in the repo contain the dataset used to build the dashboard.
 
-2. Open it in Power BI Desktop on your computer 
+- A screenshot of the final dashboard is also available for a quick preview without opening Power BI.
 
-3. If you want a quick look without opening Power BI, you can also view the screenshot included in the repo. 
- ![Dashboard Preview](https://github.com/Auxtine/Sales-budget-performance-dashboard/edit/main/sales-budget-performance-dashboard.png)
+![Dashboard Preview](https://github.com/Auxtine/Sales-budget-performance-dashboard/edit/main/sales-budget-performance-dashboard.png)
  
 
 
