@@ -119,11 +119,11 @@ Excel / CSV data source
 1. Download the .pbix file from this repository
 
 
-2. Open it in Power BI Desktop
+2. Open it in Power BI Desktop on your computer 
 
-
-
-You can also include screenshots or a PDF preview in the repo.
+3. If you want a quick look without opening Power BI, you can also view the screenshot or PDF preview included in the repo. 
+ ![Dashboard Preview](https://github.com/Auxtine/Sales-budget-performance-dashboard/edit/main/sales-budget-performance-dashboard.png)
+ 
 
 
 ---
@@ -142,5 +142,3 @@ This dashboard delivers a clear view of the organization’s financial performan
 
 
 ---
-
-If you want, I can create a shorter README, a more formal version, or a template you can reuse for every dashboard project. 
