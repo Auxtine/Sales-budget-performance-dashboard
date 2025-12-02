@@ -29,13 +29,13 @@ This project showcases an interactive **Power BI dashboard** that analyzes compa
 
 Provides a quick high-level summary:
 
--- 💰 **Total Sales**
+- 💰 **Total Sales**
 
--- 🧾 **Total Budget**
+- 🧾 **Total Budget**
 
---🔻 **Variance** (Sales − Budget)
+-🔻 **Variance** (Sales − Budget)
 
--- 📉 **Variance Percentage**
+- 📉 **Variance Percentage**
 
 
 These cards immediately show whether the company is meeting its financial targets.
